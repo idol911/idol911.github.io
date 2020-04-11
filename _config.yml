@@ -10,25 +10,25 @@ url: "https://idol911.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    # disqus: leopard
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726
-    github: idol
+    # weibo: 5366874726
+    github: idol911
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    # jianshu: 2ada30d8d0f7
     # twitter:
-    mail: leopardpan@icloud.com
+    mail: lpz033710@qq.com
 
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
 baidu:
-    id: xxxx
+    id: 25d9edf1497f12bcdcfdda2557033a9c
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
