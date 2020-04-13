@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "考研政治"
-date: 2020-04-12 
+date: 2020-04-12
 tags: 考研  
 ---
 # 2021考研政治(每日更新)
@@ -14,7 +14,7 @@ tags: 考研
 
 ----------
 ## 徐涛（全程班）
-![徐涛](https://i.imgur.com/IXONsgd.png)
+![徐涛](https://note.youdao.com/yws/api/personal/file/065B3B5247784890BA8EDE4ED822BE90?method=download&shareKey=6804a73baac3440b32241e323ccee285)
 
 ----------
 ###  1.基础精讲（Political-1）
@@ -36,9 +36,3 @@ tags: 考研
 - 链接: https://pan.baidu.com/s/1ye9vbYyRv7P4mJkaceCreQ 提取码: idol
 
 ----------
-
-
-
-
-
-

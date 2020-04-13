@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "蔡康永的201堂情商课"
-date: 2020-04-12 
+date: 2020-04-12
 tags: 遇见更好的自己  
 ---
 # 蔡康永的201堂情商课（Meet a better self-1）
@@ -13,12 +13,12 @@ tags: 遇见更好的自己
 
 ----------
 
-![1](https://i.imgur.com/dt2RAtA.png)
+![1](https://note.youdao.com/yws/api/personal/file/134034BC01754B7A8D0E743D6D556104?method=download&shareKey=863afd0e589bbbf4a04b8f6c9771180d)
 
 ### 情商是什么？
 - 在蔡康永看来，情商，是人应对一切关系的能力总和，包括 人与自己的关系，人与他人的关系，人与环境的关系：
 
-![2](https://i.imgur.com/XL40LC1.jpg)
+![2](https://note.youdao.com/yws/api/personal/file/DF0325474B024323A5D15460DEE03243?method=download&shareKey=b2fac3c1b2fcef1ab70990cad7815dd9)
 
 - 在这个关系图谱中，拥有高情商的人，可以让自我活得更加舒适，不会陷自身于负能量情绪；进而，在人情、亲情、友情、爱情中，都能更好地经营一段舒服的关系；甚至在一个庞大的群体里，也能正向感染他人。
 
@@ -30,7 +30,7 @@ tags: 遇见更好的自己
 
 - 课程拆解成三大模块，九大章节，让你全方位提升五大情商核心能力，掌握四种关系应对方案：
 
-![3](https://i.imgur.com/79yqS0x.jpg)
+![3](https://note.youdao.com/yws/api/personal/file/074B65FD23E94874AC15EB430DF88271?method=download&shareKey=610ce3d6257cc3a7484e63cf1a99cce9)
 
 ### 这门课程适合
 
@@ -53,9 +53,8 @@ tags: 遇见更好的自己
 
 - ps：由于资源敏感，需对204个文件改名才能顺利分享，花费大量时间，占用作者大量精力，故此版块将会减少更新频率，望理解！音频序号对应喜马拉雅官网目录，请自行对照！
 
- 
+
 
 
 
 - 链接: https://pan.baidu.com/s/1PRL6hxpVAX6knrHahSYshg 提取码: idol
-
