@@ -11,29 +11,45 @@ tags: 考研
 * 若涉及版权问题，请原作者留言联系我们，经核实后，若属实即删。
 * 如有更好地资料推荐，请评论留言，idol会尽力寻找并更新。
 
-## 肖秀荣（待更新）
 
-----------
-## 徐涛（全程班）
-![徐涛](https://note.youdao.com/yws/api/personal/file/065B3B5247784890BA8EDE4ED822BE90?method=download&shareKey=6804a73baac3440b32241e323ccee285)
+###  【徐涛】政治全程班
 
-----------
-###  1.基础精讲（Political-1）
-- 链接: https://pan.baidu.com/s/1bvY4d68iwhjoR3-4jn4C3Q 提取码: idol
+###  【高教社】政治全程班
 
-----------
+###  【有道】政治全程班
 
-### 2.强化精讲（Political-2）
-- 链接: https://pan.baidu.com/s/1W9TRjD8OgqB6ejCD-fF4Dw 提取码: idol
+###  【腿姐】政治全程班
 
-----------
+###  【考】政治全程班
 
-### 3.2020版历史中的别样人生-徐涛【非考研】（Political-3）
-- 链接: https://pan.baidu.com/s/1nM_Vcq8NXIujT6sDWz-kGw 提取码: idol
+###  【米鹏】政治全程班
 
-----------
+###  【石磊】政治全程班
 
-### 4.2021徐涛核心考案（Political-4）
-- 链接: https://pan.baidu.com/s/1ye9vbYyRv7P4mJkaceCreQ 提取码: idol
+###  【文】政治全程班
 
-----------
+###  【启航】政治全程班
+
+###  【海天】政治飞跃高端班
+
+###  【新东】政治全程班
+
+## 下载链接：
+
+
+- 链接: https://pan.baidu.com/s/1sm_r0TD5zCml58Gqf5K8Lg 提取码: idol
+
+### <font color=red>由于资源敏感，链接失效怎么办：</font>
+<font color=red>
+
+- 1.百度云加我为好友（我的百度云网盘是：政期待ing） </font>
+
+<font color=red>
+
+- 2.给我发消息（内容：idol911）</font>
+
+
+<font color=red>
+
+- 3.我会将文件发到右上角共享文件中。并且此文件夹每日更新</font>
+
