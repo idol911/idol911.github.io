@@ -23,7 +23,7 @@ tags: 课程大全
 ### 本社群欢迎热爱学习的小伙伴和为孩子教育辛苦付出的家长朋友们加入，提供各大知识平台优质资源，为您奉上营养丰富的知识盛宴！
 
 # 价目表：
-![](https://note.youdao.com/yws/api/personal/file/6BFF759E56314F069480A3EE7C71943F?method=download&shareKey=9be77ce9d28def9b1d08d2cac2602c86)
+![](https://note.youdao.com/yws/api/personal/file/C1321DBFA9AA4E45B2BB1BE2441471DD?method=download&shareKey=83d3c6dc8c8852e8a7bb5a39fd4adf4d)
 
 ### 说明：
 - 1、	新上资源陆续更新，每天更新内容在客服朋友圈发布，请留意！
