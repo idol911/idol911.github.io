@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "课程目录"
 date: 2020-04-17
 tags: 课程大全  
