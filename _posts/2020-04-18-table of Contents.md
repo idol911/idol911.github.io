@@ -53,7 +53,7 @@ tags: 课程大全
 
 ![](https://note.youdao.com/yws/api/personal/file/ECE3365EA79D4D5DB8CFF8E35E503037?method=download&shareKey=ab5027b3d9ed94651549cda72e470420)
 
-### 得到课程专属会员(48 元/年)包含所有专栏，大师课，精 品课，每天听书，精品小课，得到大学等持续更新及上新。
+
 
 ----------
 
